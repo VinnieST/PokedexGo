@@ -1,1 +1,1 @@
-# PokedexGo
+Creating a Pokedex in Go, through a guided project. Everything published so far is just my learning journey as a self-taught back-end developer. Soon enough will be starting unique projects of my own :D
